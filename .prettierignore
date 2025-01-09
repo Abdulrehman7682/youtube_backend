@@ -1,0 +1,13 @@
+.env.sample
+.env.test
+.env.production
+.env
+/.vscode
+./dist
+node_modules
+package-lock.json
+package.json
+.git
+
+# blueprint rules:
+generators/**/templates/**/
